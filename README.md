@@ -9,7 +9,7 @@
 ## Zadatak
 
 Potrebno je napraviti pojednostavljenu verziju igre _Galaxy Game_ za MC68000.
-Igru _Galaxy Game_ napravili su Bill Pitts i Hugh Tuck 1971. godine. Igra se igrala na konzoli sastavljenoj od računala PDP-11 (tvrtke Digital Equipment Corporation), monitora i igraće palice Smatra se jednom od prvih komercijalnih konzola na kovanice - igrači su morali platiti 10 (američkih) centi po igri ili su mogli odabrati tri igre za 25 centi. Igra _Galaxy Game_ temelji se na ranijoj igri Spacewar! (iz 1962. godine). Prikaz igre _Galaxy Game_ možete vidjeti ovdje: [YouTube](https://youtu.be/50kGmIaOGuQ). Slijedi opis pravila igre.
+Igru _Galaxy Game_ napravili su Bill Pitts i Hugh Tuck 1971. godine. Igra se igrala na konzoli sastavljenoj od računala PDP-11 (tvrtke Digital Equipment Corporation), monitora i igraće palice Smatra se jednom od prvih komercijalnih konzola na kovanice - igrači su morali platiti 10 (američkih) centi po igri ili su mogli odabrati tri igre za 25 centi. Igra _Galaxy Game_ temelji se na ranijoj igri Spacewar! (iz 1962. godine). Prikaz igre _Galaxy Game_ možete vidjeti ovdje: [YouTube](https://youtu.be/50kGmIaOGuQ).
 
 Cijeli projekt se nalazi na [OVOME (PDF)](./projekt.pdf) linku.
 
