@@ -19,18 +19,18 @@ Cijeli projekt se nalazi na [OVOME (PDF)](./projekt.pdf) linku.
 
 ## Upravljanje
 
-| Tipka | Opis                              |
-|-------|-----------------------------------|
-| A     | Rotacija broda A u lijevo         |
-| D     | Rotacija broda A u desno          |
-| S     | Ispucivanje projektila iz broda A |
-| W     | Pomicanje broda A unaprijed       |
-| Left  | Rotacija broda B u lijevo         |
-| Right | Rotacija broda B u desno          |
-| Down  | Ispucivanje projektila iz broda B |
-| Up    | Pomicanje broda B unaprijed       |
-| Space | Pokretanje igre                   |
-| E     | Zaustavljanje igre                |
+| Tipka            | Opis                              |
+|------------------|-----------------------------------|
+| <kbd>A</kbd>     | Rotacija broda A u lijevo         |
+| <kbd>D</kbd>     | Rotacija broda A u desno          |
+| <kbd>S</kbd>     | Ispucivanje projektila iz broda A |
+| <kbd>W</kbd>     | Pomicanje broda A unaprijed       |
+| <kbd>Left</kbd>  | Rotacija broda B u lijevo         |
+| <kbd>Right</kbd> | Rotacija broda B u desno          |
+| <kbd>Down</kbd>  | Ispucivanje projektila iz broda B |
+| <kbd>Up</kbd>    | Pomicanje broda B unaprijed       |
+| <kbd>Space</kbd> | Pokretanje igre                   |
+| <kbd>E</kbd>     | Zaustavljanje igre                |
 
 ## Rješenje
 
