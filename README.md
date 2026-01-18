@@ -17,6 +17,21 @@ Cijeli projekt se nalazi na [OVOME (PDF)](./projekt.pdf) linku.
 
 [EASy68K](http://easy68k.com) is a 68000 Structured Assembly Language IDE. [EASy68K](http://easy68k.com) allows you to edit, assemble and run 68000 programs on a Windows PC or Wine. No additional hardware is required. [EASy68K](http://easy68k.com) is an open source project distributed under the GNU general public use license.
 
+## Upravljanje
+
+| Tipka | Opis                              |
+|-------|-----------------------------------|
+| A     | Rotacija broda A u lijevo         |
+| D     | Rotacija broda A u desno          |
+| S     | Ispucivanje projektila iz broda A |
+| W     | Pomicanje broda A unaprijed       |
+| Left  | Rotacija broda B u lijevo         |
+| Right | Rotacija broda B u desno          |
+| Down  | Ispucivanje projektila iz broda B |
+| Up    | Pomicanje broda B unaprijed       |
+| Space | Pokretanje igre                   |
+| E     | Zaustavljanje igre                |
+
 ## Rješenje
 
 Slika rješenja:
